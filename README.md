@@ -1,0 +1,3 @@
+- 👋 Hi, I’m a Senior Software Engineer with experience working on a variety of frontend, full stack, and UX projects.
+- 👀 You can take a look at some of my previous work by visiting my [Portfolio Site](http://work.megancoyle.com)
+- 💻 Some of the tech of worked with includes: React, Redux, TypeScript, JavaScript, Python, Django, Ruby, and Ruby on Rails
