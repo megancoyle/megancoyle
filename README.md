@@ -6,11 +6,6 @@
 <a href="https://www.linkedin.com/in/megan-coyle" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="Linkedin"/></a>
 </p>
 
-- 💻 I’m currently building: **web applications at Output**
-- 🌱 I’m currently learning: **Vue.js and GraphQL**
-- 🤝 I’m looking for opportunities to contribute to open source projects
-- 💬 Ask me about **React and all things JavaScript, becoming a software engineer without a CS degree**
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a> 
