@@ -31,5 +31,5 @@
 <a href="https://circleci.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/circleci/circleci-plain-wordmark.svg" alt="circleci" width="40" height="40"/></a> 
 </p>
 
-<h3 align="left">Stats:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=megancoyle&langs_count=8&layout=compact&hide=html,procfile&size_weight=0.25&count_weight=0.70" alt="Top Languages" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=megancoyle" alt="GitHub Stats" /></p>
+<!--<h3 align="left">Stats:</h3>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=megancoyle&langs_count=8&layout=compact&hide=html,procfile&size_weight=0.25&count_weight=0.70" alt="Top Languages" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=megancoyle" alt="GitHub Stats" /></p>-->
